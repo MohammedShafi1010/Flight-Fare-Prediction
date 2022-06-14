@@ -1,0 +1,14 @@
+body {
+background-color: yellow;
+    text-align: center;
+}
+
+
+a {
+    color: #f1f9f9;
+}
+
+a:hover {
+    color: #f5b3b3;
+  }
+
